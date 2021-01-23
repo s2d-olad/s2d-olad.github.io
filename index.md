@@ -39,6 +39,6 @@ All participants of the workshop must abide by the [ICLR code of conduct](https:
 ## Workshop organizers
 
 - [Colin Bellinger](https://web.cs.dal.ca/~bellinger/) (National Research Council of Canada; [colin.bellinger@nrc-cnrc.gc.ca](mailto:colin.bellinger@nrc-cnrc.gc.ca))
-- [Roberto Corrizo](https://www.american.edu/cas/faculty/rcorizzo.cfm) (American University; [rcorizzo@american.edu](mailto:rcorizzo@american.edu))
+- [Roberto Corizzo](https://www.american.edu/cas/faculty/rcorizzo.cfm) (American University; [rcorizzo@american.edu](mailto:rcorizzo@american.edu))
 - [Vincent Dumoulin](https://vdumoulin.github.io) (Google Research, Brain Team; [vdumoulin@google.com](mailto:vdumoulin@google.com))
 - [Nathalie Japkowicz](https://www.american.edu/cas/faculty/japkowic.cfm) (American University; [japkowic@american.edu](mailto:japkowic@american.edu))
