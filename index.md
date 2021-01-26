@@ -18,7 +18,7 @@ Questions of interest include (but are not limited to):
 
 ## Author and style instructions
 
-Please format your papers using the standard ICLR 2021 style files. The page limit is 4 pages (excluding references). Papers should be submitted via _TBD_.
+Please format your papers using the standard ICLR 2021 style files. The page limit is 4 pages (excluding references). Papers should be submitted via _https://cmt3.research.microsoft.com/S2DOLAD2021_.
 
 In addition to papers describing clear research advances, we encourage the submission of short papers that discuss work in progress, new challenges and limitations, and future directions for representations learning to overcome limited and adverse data, along with socially relevant problems, ethical AI and AI safety.
 
