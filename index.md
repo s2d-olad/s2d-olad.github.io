@@ -16,6 +16,13 @@ Questions of interest include (but are not limited to):
 - Final decisions: 26 March 2021 (AOE)
 - Workshop: 8 May 2021
 
+## Invited Speakers
+
+- [Nitesh Chawla](https://niteshchawla.nd.edu) Frank M. Freimann Professor of Computer Science & Engineering and Director of The Interdisciplinary Center for Network Science & Applications (iCeNSA) at the University of Notre Dame 
+- [Alex Hanna](https://alex-hanna.com) Senior Research Scientist on the Ethical AI team at Google
+- [Bharat Hariharan](http://home.bharathh.info), Assistant Professor of Computer Science at Cornell University
+- [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/), Google Brain team in Montreal, Adjunct Professor at Université de Montréal and a Canada CIFAR Chair
+
 ## Author and style instructions
 
 Please format your papers using the standard ICLR 2021 style files. The page limit is 4 pages (excluding references). Papers should be submitted via [https://cmt3.research.microsoft.com/S2DOLAD2021](https://cmt3.research.microsoft.com/S2DOLAD2021).
