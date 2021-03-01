@@ -12,7 +12,7 @@ Questions of interest include (but are not limited to):
 
 ## Key dates
 
-- Submission date:  3 March 2021 (AOE) - <b style='color:red'>Deadline Extended!</b>
+- Submission date:  5 March 2021 (AOE) - <b style='color:red'>Deadline Extended!</b>
 - Final decisions: 26 March 2021 (AOE)
 - Workshop: 8 May 2021
 
