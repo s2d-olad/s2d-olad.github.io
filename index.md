@@ -38,6 +38,22 @@ _Google Brain team in Montreal, Adjunct Professor at Université de Montréal an
 
 **Few-Shot Classification by Recycling Deep Learning**
 
+## Accepted papers
+
+- **Voice2Series: Reprogramming Acoustic Models for Time Series Classification**. _Chao-Han Huck Yang; Yun-Yun Tsai; Pin-Yu Chen_.
+- **Leveraging Unlabelled Data through Semi-supervised Learning to Improve the Performance of a Marine Mammal Classification System**. _Mark DJ Thomas; Stan Matwin; Bruce Martin_.
+- **Density Approximation in Deep Generative Models with Kernel Transfer Operators**. _Zhichun Huang; Rudrasis Chakraborty; Vikas Singh_.
+- **Continuous Weight Balancing**. _Daniel Jeffrey Wu; Avoy Datta_.
+- **Adversarial Data Augmentation Improves Unsupervised Machine Learning**. _Chia-Yi Hsu; Pin-Yu Chen; Songtao Lu; Sijia Liu; Chia-Mu Yu_.
+- **Deep Kernels with Probabilistic Embeddings for Small-Data Learning**. _Ankur Mallick; Chaitanya Dwivedi; Bhavya Kailkhura; Gauri Joshi; T. Yong-Jin Han_.
+- **Boosting Classification Accuracy of Fertile Sperm Cell Images leveraging cDCGAN**. _Dipam Paul; Alankrita Tewari; Jiwoong Jeong; Imon Banerjee_.
+- **Towards Robustness to Label Noise in Text Classification via Noise Modeling**. _Siddhant Garg; Goutham Ramakrishnan; Varun Thumbe_.
+- **On Adversarial Robustness: A Neural Architecture Search perspective**. _Chaitanya Devaguptapu; Gaurav Mittal; Devansh Agarwal; Vineeth N Balasubramanian_.
+- **Submodular Mutual Information for Targeted Data Subset Selection**. _Suraj Kothawade; Vishal Kaushal; Ganesh Ramakrishnan; Jeff Bilmes; Rishabh Iyer_.
+- **Data-Efficient Training of Autoencoders for Mildly Non-Linear Problems**. _Muhammad Al-Digeil; Yuri Grinberg; Mohsen Kamandar Dezfouli; Daniele Melati; Jens Schmid; Pavel Cheben; Siegfried Janz; Dan-Xia Xu_.
+- **DeepSMOTE: Deep Learning for Imbalanced Data**. _Damien Dablain; Bartosz Krawczyk; Nitesh Chawla_.
+- **Min-Entropy Sampling Might Lead to Better Generalization in Deep Active Text Classification**. _Nimrah Shakeel_.
+
 ## Author and style instructions
 
 Please format your papers using the standard ICLR 2021 style files. The page limit is 4 pages (excluding references). Papers should be submitted via [https://cmt3.research.microsoft.com/S2DOLAD2021](https://cmt3.research.microsoft.com/S2DOLAD2021).
