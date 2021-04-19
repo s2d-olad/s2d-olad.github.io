@@ -18,10 +18,25 @@ Questions of interest include (but are not limited to):
 
 ## Invited Speakers
 
-- [Nitesh Chawla](https://niteshchawla.nd.edu) Frank M. Freimann Professor of Computer Science & Engineering and Director of The Interdisciplinary Center for Network Science & Applications (iCeNSA) at the University of Notre Dame 
-- [Alex Hanna](https://alex-hanna.com) Senior Research Scientist on the Ethical AI team at Google
-- [Bharat Hariharan](http://home.bharathh.info), Assistant Professor of Computer Science at Cornell University
-- [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/), Google Brain team in Montreal, Adjunct Professor at Université de Montréal and a Canada CIFAR Chair
+### [Nitesh Chawla](https://niteshchawla.nd.edu)
+_Frank M. Freimann Professor of Computer Science & Engineering and Director of The Interdisciplinary Center for Network Science & Applications (iCeNSA) at the University of Notre Dame_
+
+**Title to be announced**
+
+### [Alex Hanna](https://alex-hanna.com)
+_Senior Research Scientist on the Ethical AI team at Google_
+
+**Title to be announced**
+
+### [Bharat Hariharan](http://home.bharathh.info)
+_Assistant Professor of Computer Science at Cornell University_
+
+**Title to be announced**
+
+### [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/)
+_Google Brain team in Montreal, Adjunct Professor at Université de Montréal and a Canada CIFAR Chair_
+
+**Few-Shot Classification by Recycling Deep Learning**
 
 ## Author and style instructions
 
