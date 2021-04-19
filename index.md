@@ -38,6 +38,35 @@ _Google Brain team in Montreal, Adjunct Professor at Université de Montréal an
 
 **Few-Shot Classification by Recycling Deep Learning**
 
+## Schedule
+
+| Time (PST) | Time (EST) | Event |
+| ---------- | ---------- | ----- |
+| 05:00 AM   | 08:00 AM   | Welcome from the Organisers |
+| 05:10 AM   | 08:10 AM   | Invited Talk &mdash; Hugo Larochelle |
+| 06:10 AM   | 09:10 AM   | Spotlights Session 1 &mdash; Voice2Series: Reprogramming Acoustic Models for Time Series Classification |
+| 06:14 AM   | 09:14 AM   | Spotlights Session 1 &mdash; Density Approximation in Deep Generative Models with Kernel Transfer Operators |
+| 06:18 AM   | 09:18 AM   | Spotlights Session 1 &mdash; Adversarial Data Augmentation Improves Unsupervised Machine Learning |
+| 06:22 AM   | 09:22 AM   | Spotlights Session 1 &mdash; On Adversarial Robustness: A Neural Architecture Search perspective |
+| 06:26 AM   | 09:26 AM   | Spotlights Session 1 &mdash; Submodular Mutual Information for Targeted Data Subset Selection |
+| 06:30 AM   | 09:30 AM   | Spotlights Session 1 &mdash; Data-Efficient Training of Autoencoders for Mildly Non-Linear Problems |
+| 06:34 AM   | 09:34 AM   | Spotlights Session 1 &mdash; Min-Entropy Sampling Might Lead to Better Generalization in Deep Text Classification |
+| 06:40 AM   | 09:40 AM   | Coffee Break + Gather Town Virtual Poster Session 1 |
+| 07:25 AM   | 10:25 AM   | Invited Talk &mdash; Nitesh Chawla |
+| 08:25 AM   | 11:25 AM   | Breakout Discussion Session |
+| 09:00 AM   | 12:00 PM   | Lunch Break and Gather Town Discussion Sessions |
+| 10:30 AM   | 01:30 PM   | Invited Talk &mdash; Bharath Hariharan |
+| 11:30 AM   | 02:30 PM   | Spotlights Session 2 &mdash; Leveraging Unlabelled Data through Semi-supervised Learning to Improve the Performance of a Marine Mammal Classification System |
+| 11:36 AM   | 02:36 PM   | Spotlights Session 2 &mdash; Continuous Weight Balancing |
+| 11:40 AM   | 02:40 PM   | Spotlights Session 2 &mdash; Deep Kernels with Probabilistic Embeddings for Small-Data Learning |
+| 11:44 AM   | 02:44 PM   | Spotlights Session 2 &mdash; Boosting Classification Accuracy of Fertile Sperm Cell Images leveraging cDCGAN |
+| 11:48 AM   | 02:48 PM   | Spotlights Session 2 &mdash; Towards Robustness to Label Noise in Text Classification via Noise Modeling |
+| 11:52 AM   | 02:52 PM   | Spotlights Session 2 &mdash; DeepSMOTE: Deep Learning for Imbalanced Data |
+| 12:00 PM   | 03:00 PM   | Coffee Break + Gather Town Virtual Poster Session 2 |
+| 12:45 PM   | 03:45 PM   | Invited Talk &mdash Alex Hanna |
+| 13:45 PM   | 04:45 PM   | Round Table Panel Discussion |
+| 14:45 PM   | 05:45 PM   | Concluding Remarks by the Organisers |
+
 ## Accepted papers
 
 - **Voice2Series: Reprogramming Acoustic Models for Time Series Classification**. _Chao-Han Huck Yang; Yun-Yun Tsai; Pin-Yu Chen_.
