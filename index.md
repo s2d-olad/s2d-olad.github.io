@@ -31,7 +31,7 @@ _Senior Research Scientist on the Ethical AI team at Google_
 ### [Bharat Hariharan](http://home.bharathh.info)
 _Assistant Professor of Computer Science at Cornell University_
 
-**Title to be announced**
+**Learning to see from fewer labels**
 
 ### [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/)
 _Google Brain team in Montreal, Adjunct Professor at Université de Montréal and a Canada CIFAR Chair_
