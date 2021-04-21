@@ -38,6 +38,8 @@ _Google Brain team in Montreal, Adjunct Professor at Université de Montréal an
 
 **Few-Shot Classification by Recycling Deep Learning**
 
+This talk will present recent work I've been involved in on few-shot learning. For this workshop, I'll be framing this work around the point of view of "recycling deep learning". Though not really a new paradigm, in that it overlaps with several others that already exist, I will try to convince you that approaching few-shot classification from that perspective can shift in interesting ways our thinking about what properties we want few-shot learning solutions to satisfy.
+
 ## Schedule
 
 | Time (PST) | Time (EST) | Event |
