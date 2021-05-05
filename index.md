@@ -26,7 +26,7 @@ _Frank M. Freimann Professor of Computer Science & Engineering and Director of T
 ### [Alex Hanna](https://alex-hanna.com)
 _Senior Research Scientist on the Ethical AI team at Google_
 
-**Title to be announced**
+**Beyond Bias: Algorithmic Unfairness, Infrastructure, and Genealogies of Data**
 
 ### [Bharat Hariharan](http://home.bharathh.info)
 _Assistant Professor of Computer Science at Cornell University_
