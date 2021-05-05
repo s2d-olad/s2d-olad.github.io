@@ -21,7 +21,7 @@ Questions of interest include (but are not limited to):
 ### [Nitesh Chawla](https://niteshchawla.nd.edu)
 _Frank M. Freimann Professor of Computer Science & Engineering and Director of The Interdisciplinary Center for Network Science & Applications (iCeNSA) at the University of Notre Dame_
 
-**Title to be announced**
+**SMOTE: From Shallow to Deep**
 
 ### [Alex Hanna](https://alex-hanna.com)
 _Senior Research Scientist on the Ethical AI team at Google_
