@@ -29,7 +29,7 @@ Please checkout our logistics page ([here](logistics.md)) for deals on how the d
 ## Invited Speakers
 
 ### [Nitesh Chawla](https://niteshchawla.nd.edu)
-_Frank M. Freimann Professor of Computer Science & Engineering and Director of The Interdisciplinary Center for Network Science & Applications (iCeNSA) at the University of Notre Dame_
+_Frank M. Freimann Professor of Computer Science & Engineering and Director of Lucy Family Institute for Data and Society at the University of Notre Dame_
 
 **SMOTE: From Shallow to Deep**
 
