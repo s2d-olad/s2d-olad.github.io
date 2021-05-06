@@ -1,4 +1,4 @@
-Workshop Logistics
+##Workshop Logistics
 
 Participate in S2D-OLAD: The workshop is hosted at ICLR 2021. As a results, to participate in the workshop, you must register for ICLR. Once registered, you can participate in the workshop on Friday May 7th, 2021 by following the workshop livestream (https://iclr.cc/virtual/2021/workshop/2139) starting at 8:00 AM EST.
 
