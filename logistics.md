@@ -6,7 +6,7 @@ The workshop is hosted at ICLR 2021. As a results, to participate in the worksho
 
 ### Invited Talks: 
 
-We have 4 45 minute invited talks. The speakers and times are listed below. Go to our ICLR workshop site to see the talks [ICLR S2D-OLAD](https://iclr.cc/virtual/2021/workshop/2139). After each talk, we will have a 15 minute live Q&A. Please post your questions to the speakers in Rocket Chat on our ICLR workshop site. 
+We have 4 45 minute invited talks. The speakers and times are listed [here](index.md). Go to our ICLR workshop site to see the talks [ICLR S2D-OLAD](https://iclr.cc/virtual/2021/workshop/2139). After each talk, we will have a 15 minute live Q&A. Please post your questions to the speakers in Rocket Chat on our ICLR workshop site. 
 
 ### Panel discussion: 
 
@@ -14,7 +14,7 @@ The penultimate session of the workshop will be a live panel discuss with our 4 
 
 ### Accepted papers: 
 
-The accepted papers are listed below. They will be presented in 4 minute pre-recorded videos and live virtual poster sessions. The papers are grouped into a morning spotlight and poster session and afternoon spotlight and poster session. Please check the schedule below to see when each paper will be streamed on our ICLR workshop site. The poster session will take place in gather town ([Poster Session](https://eventhosts.gather.town/app/tKEs7QinJhZyaDOD/S2D-OLAD)) immediately after the spotlight session. If you have a poster please find your session and stand virtually with your poster during the poster session  You can find the link to the worksop gather town above and shared in Rocket Chat. Please click on the gather town link after the spotlight session to join the poster session. You can leave the workshop live stream open.
+The accepted papers are listed [here](index.md). They will be presented in 4 minute pre-recorded videos and live virtual poster sessions. The papers are grouped into a morning spotlight and poster session and afternoon spotlight and poster session. Please check the schedule [here](index.md) to see when each paper will be streamed on our ICLR workshop site. The poster session will take place in gather town ([Poster Session](https://eventhosts.gather.town/app/tKEs7QinJhZyaDOD/S2D-OLAD)) immediately after the spotlight session. If you have a poster please find your session and stand virtually with your poster during the poster session  You can find the link to the worksop gather town above and shared in Rocket Chat. Please click on the gather town link after the spotlight session to join the poster session. You can leave the workshop live stream open.
 
 ### Breakout sessions: 
 
@@ -23,3 +23,8 @@ In an attempt to get some of the benefits of an in-person workshop, there will b
 ### Virtual Networking and small group meetings:  
 
 We encourage you to mingle, network, discuss topics of interest, and form small group meetings during lunch and throughout the day. You can meet with people in the workshop gather town ([Breakout Session](https://eventhosts.gather.town/app/tKEs7QinJhZyaDOD/S2D-OLAD)) at any time during the day.
+
+
+### Opinion Polling
+
+We plan to poll workshop participants throughout the day on topics such as prefer breakout room topics, interesting outcomes of the workshop and the next steps. We will use Rocket Chat and the live stream to direct participants to the opinion poll questions. Our Easy Poll polling site is [here](https://www.easypolls.net/poll.html?p=6092dc8ee4b06f4c09fa29a2). 
