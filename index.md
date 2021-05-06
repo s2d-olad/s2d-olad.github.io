@@ -14,6 +14,7 @@ Questions of interest include (but are not limited to):
 - Link to participate in workshop (requires ICLR registration): [ICLR S2D-OLAD](https://iclr.cc/virtual/2021/workshop/2139)
 - Link to Gather Town poster session (requires ICLR registration): [Poster Session](https://eventhosts.gather.town/app/tKEs7QinJhZyaDOD/S2D-OLAD)
 - Link to Gather Town breakout session (requires ICLR registration): [Breakout Session](https://eventhosts.gather.town/app/tKEs7QinJhZyaDOD/S2D-OLAD)
+- Link to S2D-OLAD polling site: [Have your say](https://www.easypolls.net/poll.html?p=6092dc8ee4b06f4c09fa29a2)
 
 ## Key dates
 
