@@ -9,6 +9,10 @@ Questions of interest include (but are not limited to):
 3. What are the most pertinent questions related to deep representation learning from data with adverse properties? Questions to consider are: is it possible to generalize few-shot learning across domains? What are the  relative advantages of few-shot learning over fine-tuned transfer learning? What are the impacts of, and solutions to, deep representation learning from long-tailed data and data with imbalanced class priors? Moreover, we welcome, and in fact, encourage other questions.
 4. What are the moral and social issues related to the applications of models trained on limited and adverse data? Can these be mitigated with new technical solutions?
 
+## Workshop Logistics
+
+Please checkout our logistics page ([here](logistics.md)) for deals on how the day will evolve 
+
 ## Important links
 
 - Link to participate in workshop (requires ICLR registration): [ICLR S2D-OLAD](https://iclr.cc/virtual/2021/workshop/2139)
