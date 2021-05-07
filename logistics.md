@@ -2,7 +2,7 @@
 
 ### Participate in S2D-OLAD: 
 
-The workshop is hosted at ICLR 2021. As a results, to participate in the workshop, you must register for ICLR. Once registered, you can participate in the workshop on Friday May 7th, 2021 by following the workshop livestream [ICLR S2D-OLAD](https://iclr.cc/virtual/2021/workshop/2139) starting at 8:00 AM EST.
+The workshop is hosted at ICLR 2021. As a results, to participate in the workshop, you must register for ICLR. Once registered, you can participate in the workshop on Friday May 7th, 2021 by following the workshop live stream [ICLR S2D-OLAD](https://iclr.cc/virtual/2021/workshop/2139) starting at 8:00 AM EST.
 
 ### Invited Talks: 
 
@@ -27,4 +27,4 @@ We encourage you to mingle, network, discuss topics of interest, and form small 
 
 ### Opinion Polling
 
-We plan to poll workshop participants throughout the day on topics such as prefer breakout room topics, interesting outcomes of the workshop and the next steps. We will use Rocket Chat and the live stream to direct participants to the opinion poll questions. Our Easy Poll polling site is [here](https://www.easypolls.net/poll.html?p=6092dc8ee4b06f4c09fa29a2). 
+We plan to poll workshop participants throughout the day for their opions on prefer breakout room topics, interesting outcomes of the workshop and the next steps. We will use Rocket Chat and the live stream to direct participants to the opinion poll questions. Our Easy Poll polling site is [here](https://www.easypolls.net/poll.html?p=6092dc8ee4b06f4c09fa29a2). 
