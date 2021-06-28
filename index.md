@@ -81,19 +81,19 @@ This talk will present recent work I've been involved in on few-shot learning. F
 
 ## Accepted papers
 
-- **Voice2Series: Reprogramming Acoustic Models for Time Series Classification**. [[paper](papers/submission-1.pdf)]  _Chao-Han Huck Yang; Yun-Yun Tsai; Pin-Yu Chen_.
-- **Leveraging Unlabelled Data through Semi-supervised Learning to Improve the Performance of a Marine Mammal Classification System**. [[paper](papers/submission-2.pdf)] _Mark DJ Thomas; Stan Matwin; Bruce Martin_.
-- **Density Approximation in Deep Generative Models with Kernel Transfer Operators**. [[paper](papers/submission-5.pdf)] _Zhichun Huang; Rudrasis Chakraborty; Vikas Singh_.
-- **Continuous Weight Balancing**. [[paper](papers/submission-6.pdf)] _Daniel Jeffrey Wu; Avoy Datta_.
-- **Adversarial Data Augmentation Improves Unsupervised Machine Learning**. [[paper](papers/submission-7.pdf)] _Chia-Yi Hsu; Pin-Yu Chen; Songtao Lu; Sijia Liu; Chia-Mu Yu_.
-- **Deep Kernels with Probabilistic Embeddings for Small-Data Learning**. [[paper](papers/submission-8.pdf)] _Ankur Mallick; Chaitanya Dwivedi; Bhavya Kailkhura; Gauri Joshi; T. Yong-Jin Han_.
-- **Boosting Classification Accuracy of Fertile Sperm Cell Images leveraging cDCGAN**. [[paper](papers/submission-9.pdf)] _Dipam Paul; Alankrita Tewari; Jiwoong Jeong; Imon Banerjee_.
-- **Towards Robustness to Label Noise in Text Classification via Noise Modeling**. [[paper](papers/submission-10.pdf)] _Siddhant Garg; Goutham Ramakrishnan; Varun Thumbe_.
-- **On Adversarial Robustness: A Neural Architecture Search perspective**. [[paper](papers/submission-11.pdf)] _Chaitanya Devaguptapu; Gaurav Mittal; Devansh Agarwal; Vineeth N Balasubramanian_.
-- **Submodular Mutual Information for Targeted Data Subset Selection**. [[paper](papers/submission-12.pdf)] _Suraj Kothawade; Vishal Kaushal; Ganesh Ramakrishnan; Jeff Bilmes; Rishabh Iyer_.
-- **Data-Efficient Training of Autoencoders for Mildly Non-Linear Problems**. [[paper](papers/submission-13.pdf)] _Muhammad Al-Digeil; Yuri Grinberg; Mohsen Kamandar Dezfouli; Daniele Melati; Jens Schmid; Pavel Cheben; Siegfried Janz; Dan-Xia Xu_.
-- **DeepSMOTE: Deep Learning for Imbalanced Data**. [[paper](papers/submission-16.pdf)] _Damien Dablain; Bartosz Krawczyk; Nitesh Chawla_.
-- **Min-Entropy Sampling Might Lead to Better Generalization in Deep Active Text Classification**. [[paper](papers/submission-17.pdf)] _Nimrah Shakeel_.
+- **Voice2Series: Reprogramming Acoustic Models for Time Series Classification**. [[paper](papers/submission-1.pdf), [poster](posters/submission-1.pdf)]  _Chao-Han Huck Yang; Yun-Yun Tsai; Pin-Yu Chen_.
+- **Leveraging Unlabelled Data through Semi-supervised Learning to Improve the Performance of a Marine Mammal Classification System**. [[paper](papers/submission-2.pdf), [poster](posters/submission-2.pdf)] _Mark DJ Thomas; Stan Matwin; Bruce Martin_.
+- **Density Approximation in Deep Generative Models with Kernel Transfer Operators**. [[paper](papers/submission-5.pdf), [supplementary](papers/submission-5-supplementary.pdf), [poster](posters/submission-5.pdf)] _Zhichun Huang; Rudrasis Chakraborty; Vikas Singh_.
+- **Continuous Weight Balancing**. [[paper](papers/submission-6.pdf), [poster](posters/submission-6.pdf)] _Daniel Jeffrey Wu; Avoy Datta_.
+- **Adversarial Data Augmentation Improves Unsupervised Machine Learning**. [[paper](papers/submission-7.pdf), [poster](posters/submission-7.pdf)] _Chia-Yi Hsu; Pin-Yu Chen; Songtao Lu; Sijia Liu; Chia-Mu Yu_.
+- **Deep Kernels with Probabilistic Embeddings for Small-Data Learning**. [[paper](papers/submission-8.pdf), [supplementary](papers/submission-8-supplementary.pdf), [poster](posters/submission-8.pdf)] _Ankur Mallick; Chaitanya Dwivedi; Bhavya Kailkhura; Gauri Joshi; T. Yong-Jin Han_.
+- **Boosting Classification Accuracy of Fertile Sperm Cell Images leveraging cDCGAN**. [[paper](papers/submission-9.pdf), [poster](posters/submission-9.pdf)] _Dipam Paul; Alankrita Tewari; Jiwoong Jeong; Imon Banerjee_.
+- **Towards Robustness to Label Noise in Text Classification via Noise Modeling**. [[paper](papers/submission-10.pdf), [poster](posters/submission-10.pdf)] _Siddhant Garg; Goutham Ramakrishnan; Varun Thumbe_.
+- **On Adversarial Robustness: A Neural Architecture Search perspective**. [[paper](papers/submission-11.pdf), [supplementary](papers/submission-11-supplementary.pdf), [poster](posters/submission-11.pdf)] _Chaitanya Devaguptapu; Gaurav Mittal; Devansh Agarwal; Vineeth N Balasubramanian_.
+- **Submodular Mutual Information for Targeted Data Subset Selection**. [[paper](papers/submission-12.pdf), [poster](posters/submission-12.pdf)] _Suraj Kothawade; Vishal Kaushal; Ganesh Ramakrishnan; Jeff Bilmes; Rishabh Iyer_.
+- **Data-Efficient Training of Autoencoders for Mildly Non-Linear Problems**. [[paper](papers/submission-13.pdf), [poster](posters/submission-13.pdf)] _Muhammad Al-Digeil; Yuri Grinberg; Mohsen Kamandar Dezfouli; Daniele Melati; Jens Schmid; Pavel Cheben; Siegfried Janz; Dan-Xia Xu_.
+- **DeepSMOTE: Deep Learning for Imbalanced Data**. [[paper](papers/submission-16.pdf), [poster](posters/submission-16.pdf)] _Damien Dablain; Bartosz Krawczyk; Nitesh Chawla_.
+- **Min-Entropy Sampling Might Lead to Better Generalization in Deep Active Text Classification**. [[paper](papers/submission-17.pdf), [poster](posters/submission-17.pdf)] _Nimrah Shakeel_.
 
 ## Author and style instructions
 
